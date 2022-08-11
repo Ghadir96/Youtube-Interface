@@ -1,2 +1,2 @@
 # Youtube-Interface
-This project was made by HTML and CSS only. I tried to make Youtube interface in a simple code.
+This project is the interface of Youtube, it was made only by HTML and CSS. 
